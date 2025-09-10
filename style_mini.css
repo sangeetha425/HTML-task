@@ -76,7 +76,7 @@ img{
       margin-left: 40px;
 } 
 .img-item-1,.img-item-2,.img-item-3,.img-item-4,.img-item-5,.img-item-6,.img-item-7,.img-item-8{
-    width:380px;
+    width:300px;
     height:300px;
     display:inline-block;
     margin:10px;
@@ -107,7 +107,7 @@ padding:10px;
     margin-bottom:50px;
 }
 .cards-item-1,.cards-item-2,.cards-item-3,.cards-item-4{
-    width: 300px;
+    width: 280px;
     height: 500px;
     margin-left: 20px;
     display:inline-block;
@@ -186,4 +186,5 @@ form input[type="submit"]{
 }
 a{
     color:white;
+
 }
